@@ -1,4 +1,4 @@
-# Lab06 - Client Interaction
+# Lab08 - Client Interaction
 
 ## Objectives
 - Observe client-server interactions between a PC and a server.
